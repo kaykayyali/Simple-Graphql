@@ -1,0 +1,9 @@
+Define these Vars in a .env file
+
+API_PORT
+APOLLO_PORT
+
+Start api_server and apollo_server
+
+
+Open localhost:APOLLO_PORT and screw around
